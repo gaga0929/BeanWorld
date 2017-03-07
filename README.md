@@ -1,0 +1,2 @@
+# BeanWorld
+JaveEE Bean Project
